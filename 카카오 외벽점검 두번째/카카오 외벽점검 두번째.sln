@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "카카오 외벽점검 두번째", "카카오 외벽점검 두번째\카카오 외벽점검 두번째.pyproj", "{EFAC93B4-B682-4F4C-A1DE-3AD63343110B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFAC93B4-B682-4F4C-A1DE-3AD63343110B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAC93B4-B682-4F4C-A1DE-3AD63343110B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70EB1F6A-8FA5-4418-9403-857D189C9FD2}
+	EndGlobalSection
+EndGlobal

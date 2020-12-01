@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "그리디 조이스틱", "그리디 조이스틱\그리디 조이스틱.pyproj", "{5BD58BF1-B6C6-4278-867D-7CA6647F154C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BD58BF1-B6C6-4278-867D-7CA6647F154C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD58BF1-B6C6-4278-867D-7CA6647F154C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC605683-2224-4EC9-BE9E-EAAE9ACFE871}
+	EndGlobalSection
+EndGlobal

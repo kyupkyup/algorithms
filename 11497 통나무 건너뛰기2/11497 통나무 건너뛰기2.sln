@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "11497 통나무 건너뛰기2", "11497 통나무 건너뛰기2\11497 통나무 건너뛰기2.pyproj", "{B82C2753-5D44-4B9B-A7F2-F94BC1231457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B82C2753-5D44-4B9B-A7F2-F94BC1231457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82C2753-5D44-4B9B-A7F2-F94BC1231457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BA84952-23D2-4DF9-8A4A-CFD094D84592}
+	EndGlobalSection
+EndGlobal

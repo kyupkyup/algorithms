@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "숫자 야구 완전탐색", "숫자 야구 완전탐색\숫자 야구 완전탐색.pyproj", "{56D27C4C-2FEE-4C27-8DD2-58F4A87A1DE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56D27C4C-2FEE-4C27-8DD2-58F4A87A1DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D27C4C-2FEE-4C27-8DD2-58F4A87A1DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {458B07DC-CD6B-445F-AE82-D9A129F91B6C}
+	EndGlobalSection
+EndGlobal

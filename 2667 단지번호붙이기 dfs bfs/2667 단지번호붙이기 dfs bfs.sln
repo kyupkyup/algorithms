@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2667 단지번호붙이기 dfs bfs", "2667 단지번호붙이기 dfs bfs\2667 단지번호붙이기 dfs bfs.pyproj", "{37380DA9-8785-4E87-81DB-3B8D9A9FB09D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37380DA9-8785-4E87-81DB-3B8D9A9FB09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37380DA9-8785-4E87-81DB-3B8D9A9FB09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6F76B98-355C-4700-9200-1D3B540A6A5C}
+	EndGlobalSection
+EndGlobal

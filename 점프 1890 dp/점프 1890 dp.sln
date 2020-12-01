@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "점프 1890 dp", "점프 1890 dp\점프 1890 dp.pyproj", "{2B908970-CFFA-4137-A543-B26F13AFF198}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "1932 triangle dp", "..\1932 triangle dp\1932 triangle dp\1932 triangle dp.pyproj", "{0AE4CC6B-6C89-4F7F-A695-B5B12128A9E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B908970-CFFA-4137-A543-B26F13AFF198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B908970-CFFA-4137-A543-B26F13AFF198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE4CC6B-6C89-4F7F-A695-B5B12128A9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE4CC6B-6C89-4F7F-A695-B5B12128A9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {800CAA38-6521-4C7D-938F-92E2218F1584}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "그래프 가장 먼 노드", "그래프 가장 먼 노드\그래프 가장 먼 노드.pyproj", "{2CF2DF58-B36B-4D0E-A3BA-170D6845A1AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CF2DF58-B36B-4D0E-A3BA-170D6845A1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF2DF58-B36B-4D0E-A3BA-170D6845A1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DDCA4DC-B54C-4687-B24D-33926D1ED194}
+	EndGlobalSection
+EndGlobal

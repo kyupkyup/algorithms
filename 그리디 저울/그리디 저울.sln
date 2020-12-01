@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "그리디 저울", "그리디 저울\그리디 저울.pyproj", "{C290BC8E-7A35-438A-99BC-13129F023A1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C290BC8E-7A35-438A-99BC-13129F023A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C290BC8E-7A35-438A-99BC-13129F023A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB4D8849-52E2-4FDF-ABF7-024037F8550E}
+	EndGlobalSection
+EndGlobal

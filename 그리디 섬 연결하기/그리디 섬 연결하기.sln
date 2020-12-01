@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "그리디 섬 연결하기", "그리디 섬 연결하기\그리디 섬 연결하기.pyproj", "{8E29EE8F-11EC-41AA-BAD4-DF85506206A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E29EE8F-11EC-41AA-BAD4-DF85506206A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E29EE8F-11EC-41AA-BAD4-DF85506206A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB5B79BF-EFA6-4BE2-89B3-2C70B3B0D1E2}
+	EndGlobalSection
+EndGlobal

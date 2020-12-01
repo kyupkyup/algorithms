@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dfs 타겟 넘버", "dfs 타겟 넘버\dfs 타겟 넘버.pyproj", "{948AD3D2-E27E-4939-B030-0A7CE4777FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{948AD3D2-E27E-4939-B030-0A7CE4777FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948AD3D2-E27E-4939-B030-0A7CE4777FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4D28DC2-99E9-4E1B-8947-6050E280D36A}
+	EndGlobalSection
+EndGlobal

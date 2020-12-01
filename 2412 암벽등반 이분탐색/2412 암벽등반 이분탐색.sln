@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2412 암벽등반 이분탐색", "2412 암벽등반 이분탐색\2412 암벽등반 이분탐색.pyproj", "{7EF68F77-F8E1-4D20-B870-7EC6FEC138E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EF68F77-F8E1-4D20-B870-7EC6FEC138E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF68F77-F8E1-4D20-B870-7EC6FEC138E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40D077A3-4545-4664-890A-BBDFB807CF5C}
+	EndGlobalSection
+EndGlobal

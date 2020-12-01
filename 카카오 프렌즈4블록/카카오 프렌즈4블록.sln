@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "카카오 프렌즈4블록", "카카오 프렌즈4블록\카카오 프렌즈4블록.pyproj", "{1B60DD11-A8D1-458C-B55D-698996D121DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B60DD11-A8D1-458C-B55D-698996D121DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B60DD11-A8D1-458C-B55D-698996D121DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F2920C2-FD26-4DC3-959A-88EF68C0FB45}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "카카오 괄호변환", "카카오 괄호변환\카카오 괄호변환.pyproj", "{B04A674E-7D10-4409-8AB8-AC2CF395746C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B04A674E-7D10-4409-8AB8-AC2CF395746C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04A674E-7D10-4409-8AB8-AC2CF395746C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00D88FF3-02AA-4B8B-B058-A95007180132}
+	EndGlobalSection
+EndGlobal

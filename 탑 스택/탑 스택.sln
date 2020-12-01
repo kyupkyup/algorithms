@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "탑 스택", "탑 스택\탑 스택.pyproj", "{750F90E1-27DE-4BCD-9046-44A7B73B721B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{750F90E1-27DE-4BCD-9046-44A7B73B721B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750F90E1-27DE-4BCD-9046-44A7B73B721B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2F8A2D3-5F0B-4A57-AA28-145F6B8260DE}
+	EndGlobalSection
+EndGlobal
